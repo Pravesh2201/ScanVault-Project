@@ -6,23 +6,6 @@ A fully serverless receipt processing system built on AWS that automatically ext
 
 ## 🏗️ Architecture Overview
 
-```
-Receipt Image
-     │
-     ▼
-┌─────────────┐     S3 Event      ┌──────────────┐     AnalyzeExpense     ┌─────────────┐
-│  Amazon S3  │ ────────────────► │ AWS Lambda   │ ───────────────────── ► │  Textract   │
-│  (Storage)  │                   │  (Processor) │                         │  (OCR/AI)   │
-└─────────────┘                   └──────┬───────┘                         └─────────────┘
-                                         │
-                          ┌──────────────┼──────────────┐
-                          ▼                             ▼
-                  ┌──────────────┐            ┌──────────────┐
-                  │   DynamoDB   │            │  Amazon SES  │
-                  │  (Database)  │            │   (Email)    │
-                  └──────────────┘            └──────────────┘
-```
-
 <img width="934" height="651" alt="Architecture diagram" src="https://github.com/user-attachments/assets/4b35ce1d-1d85-45d6-bd0f-f71d3ee40041" />
 
 ---
