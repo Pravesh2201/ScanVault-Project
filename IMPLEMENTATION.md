@@ -32,7 +32,8 @@ This guide walks you through the complete setup of the serverless receipt proces
 <img width="1456" height="721" alt="dynamodb-table" src="https://github.com/user-attachments/assets/2150f424-48a6-497e-af1a-a980df800b81" />
 
 
-<img width="1448" height="756" alt="dynamodb-table-update" src="https://github.com/user-attachments/assets/b08f0b12-449c-4d43-9d1b-6cdb6788594c" />
+<img width="1465" height="660" alt="db-table" src="https://github.com/user-attachments/assets/82c38afb-5c34-406c-bded-a9efad5f777c" />
+
 
 
 ---
