@@ -14,7 +14,8 @@ This guide walks you through the complete setup of the serverless receipt proces
 5. Inside the bucket, create a folder named **`incoming/`** — this is where you will upload receipt files
 
 ### Screenshots:
-![alt text](s3-bucket.png)
+<img width="979" height="399" alt="s3-bucket" src="https://github.com/user-attachments/assets/543f72c5-6dfa-4baa-99e3-da8bff43ecce" />
+
 
 > 📸 *Add your `incoming/` folder screenshot here*
 
