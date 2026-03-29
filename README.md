@@ -6,7 +6,8 @@ A fully serverless receipt processing system built on AWS that automatically ext
 
 ## 🏗️ Architecture Overview
 
-<img width="934" height="651" alt="Architecture diagram" src="https://github.com/user-attachments/assets/4b35ce1d-1d85-45d6-bd0f-f71d3ee40041" />
+<img width="892" height="729" alt="Architecture" src="https://github.com/user-attachments/assets/f86720c9-f74c-4dc2-894d-e91e601cd713" />
+
 
 ---
 
