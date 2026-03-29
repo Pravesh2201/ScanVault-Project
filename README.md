@@ -117,7 +117,7 @@ Use this test event in **Lambda → Test tab** to trigger manually:
 
 ## 👨‍💻 Author
 
-**Pravesh Gangwar**
+**Pravesh Kumar**
 📬 [LinkedIn](https://www.linkedin.com/in/pravesh22) · [GitHub](https://github.com/pravesh2201)
 
 ---
